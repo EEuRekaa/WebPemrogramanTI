@@ -1,0 +1,1 @@
+alert("Haloooo html, ini js eksternal")
